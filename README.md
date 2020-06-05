@@ -1,24 +1,20 @@
-# Project 3 Repo
+## 281 Project 3 Learning Outcomes
 
-Repo start-state:
+[Project page](https://dhatcher282.github.io/)
 
-1. README.md
-2. .gitignore
-3. gallery.html, gallery.css, gallery.js
+- A web API or Application Programming Interface is an API accessed using the HTTP protocol. Web APIs often deliver data formatted as JSON.
 
-<h2>281 Project 1 Learning Outcomes</h2>
+- A web API can be accessed programmatically using JavaScript. The API documentation must first be consulted in order to understand how the API works and what it returns.
 
-- Basic Unix Shell commands
+- Use jQuery to post AJAX requests asynchronously
 
-- Install and Configure Git using the Unix Shell
+- Use the Postman app to test API requests/responses
 
-- Basic Git commands
+- Use NodeJS and Express for a testing server
 
-- MarkDown Language for README files
+- Use jQuery, JavaScript, and public APIs to fetch JSON data, then use it to refresh part of a web page
 
-- JavaScript ES6+ features
-
-<h2>281 Project 2 Learning Outcomes</h2>
+## 281 Project 2 Learning Outcomes
 
 - A web API or Application Programming Interface is an API accessed using the HTTP protocol.
 
@@ -32,16 +28,14 @@ Repo start-state:
 
 - In this project, you will use Flickr's public API.
 
-<h2>281 Project 3 Learning Outcomes</h2>
+## 281 Project 1 Learning Outcomes
 
-- A web API or Application Programming Interface is an API accessed using the HTTP protocol. Web APIs often deliver data formatted as JSON.
+- Basic Unix Shell commands
 
-- A web API can be accessed programmatically using JavaScript. The API documentation must first be consulted in order to understand how the API works and what it returns.
+- Install and Configure Git using the Unix Shell
 
-- Use jQuery to post AJAX requests asynchronously
+- Basic Git commands
 
-- Use the Postman app to test API requests/responses
+- MarkDown Language for README files
 
-- Use NodeJS and Express for a testing server
-
-- Use jQuery, JavaScript, and public APIs to fetch JSON data, then use it to refresh part of a web page
+- JavaScript ES6+ features
